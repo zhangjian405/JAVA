@@ -1,1 +1,1 @@
-java505
+java505 remote
